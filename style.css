@@ -1,0 +1,37 @@
+body {
+  background-color: #9a78ff;
+  color: white;
+  font-family: Ancizar Sans;
+}
+
+button {
+  height: 45px;
+  font-size: 25px;
+  color: #9a78ff;
+  background-color: white;
+  text-align: center;
+  border: solid 6px #9a78bb;
+}
+
+p {
+  background-color: white;
+  color: #9a78ff;
+  height: 40px;
+  width: 300px;
+  text-align: center;
+  margin: 10px;
+  font-size: 35px;
+  border: solid 10px #9a78bb;
+}
+
+input {
+  background-color: white;
+  color: #9a78ff;
+  height: 40px;
+  width: 300px;
+  text-align: center;
+  margin: 10px;
+  font-size: 35px;
+  border: solid 10px #9a78bb;
+  display: block;
+}
